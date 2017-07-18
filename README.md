@@ -1,5 +1,28 @@
 Android 3D Model Viewer
 =======================
+NOTE:-
+1)I have cloned this project with the aim of learning about 3D from the author of the orignal project
+below.  [https://github.com/andresoviedo/android-3D-model-viewer}
+
+2)I am very much a beginner to Android app development. So my work may have many errors.
+
+3)Please contact the orignal author [andresoviedo@gmail.com] about any queries on the 3D code.
+
+4)I wish to try and get the 3D object displayed to move when the application receives a command prompt over the Wifi interface.
+
+5)To this effect my modifications/additions to Andresovideo project will be mainly/totally to get this said 3d object to move.
+
+6) I have left the contents of the original README.md file as is , below.
+
+7) Since I am new to this public domain software use. Please let me know if I have transgressed any rule. My email is [sergsub@gmail.com]
+
+kind regards
+
+Sergie . S
+18 July 2017
+
+
+
 
 ![codeship badge](https://codeship.com/projects/52cf9560-deb2-0134-4203-2aaddef843aa/status?branch=master)
 
